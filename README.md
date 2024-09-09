@@ -46,3 +46,6 @@ The project is a work in progress and is not yet complete.
 - [ ] User following
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
+
+
+<!--  I tried my best to finish this assignment, I managed to fork it, and code into it just not get the log in to work properly. I think I could not get the log in to work properly due to my db and the connections to github. I found working out how to get the page to work hard and what to import into VSCode. It ws a tough challenge but i think I tried my best to get it done.-->
